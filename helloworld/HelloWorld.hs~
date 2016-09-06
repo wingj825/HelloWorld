@@ -1,0 +1,1 @@
+main = print (z"Hello World!")
